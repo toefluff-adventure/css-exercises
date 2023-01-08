@@ -1,0 +1,22 @@
+
+.odd,
+.p {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;}
+.p{
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.color {
+    color: blue;
+    font-size: 36px;
+
+}  
+
+.e {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
